@@ -24,3 +24,8 @@ This shell script converts HTML bookmark files into the Nix format for easy inte
    # bookmarks.html should b e the default for most browserns
 ```
 
+## Known Issues and Stuff
+
+  - Doesn't work with special charackters
+  - The formating looks ridiculous
+  - uses to many tmp files
