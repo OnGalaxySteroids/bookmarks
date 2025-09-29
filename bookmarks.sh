@@ -47,6 +47,7 @@ formatNix()
         url=$(sed -n "${i}p" "$outputTmpUrl")
         name=$(sed -n "${i}p" "$outputTmpName")
 
+        # DOnt know what is happening dont fuck with it
         if [ -n "$url" ] && [ -n "$name" ]; then
             echo -e "                   {\n                     name = \"$name\";\n                     url = \"$url\";\n                   }" >> "$outputFile"
         fi
