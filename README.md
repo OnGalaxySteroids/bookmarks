@@ -21,7 +21,7 @@ This shell script converts HTML bookmark files into the Nix format for easy inte
    ./bookmarks.sh
 
    # followed by the bookmark file
-   # bookmarks.html should b e the default for most browserns
+   # bookmarks.html should be the default for most browserns
 ```
 
 ## Known Issues and Stuff
