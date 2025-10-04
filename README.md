@@ -15,7 +15,7 @@ This shell script converts HTML bookmark files into the Nix format for easy inte
    cd bookmarks/
 
    # make the script executable
-   chmod 755 convert.sh
+   chmod 755 bookmarks.sh
 
    # run the script
    ./bookmarks.sh
