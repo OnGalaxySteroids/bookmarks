@@ -30,3 +30,6 @@ This shell script converts HTML bookmark files into the Nix format for easy inte
   - The formating looks ridiculous
   - uses to many tmp files
   - rewrites the entire file everytime it updates
+
+
+***Kind Regards 2025.10.04***
