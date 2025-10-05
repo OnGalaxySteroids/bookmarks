@@ -1,5 +1,5 @@
 # BTW WRONG SYNTAX
-The syntax of the script is currently false beacuse the "***declarative programming configuration system allows reproducibility and portability***" changes the syntax every fucking update
+The syntax of the script is currently false beacuse the "***declarative programming configuration system that allows reproducibility and portability***" changes the syntax every fucking update
 
 ## Overview
 
