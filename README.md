@@ -1,3 +1,6 @@
+# BTW WRONG SYNTAX
+The syntax of the script is currently false beacuse the "***declarative programming configuration system allows reproducibility and portability***" changes the syntax every fucking update
+
 ## Overview
 
 This shell script converts HTML bookmark files into the Nix format for easy integration with NixOS or other Nix-based systems. It parses the HTML file, extracts the bookmarks, and generates a .nix file that can be used to manage bookmarks in a Nix environment. Obviously there are better and safer ways to do this. This was just for fun and out of interest.
